@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: myapp_stable
+Components: main
+Date: Wed, 24 Sep 2025 07:23:53 +0000
+Description: APT repository for myapp
+Label: myapp
+Origin: myapp
+Suite: stable
+MD5Sum:
+ d1d6027129fa16a7588af40805ffc779              178 Release
+ 0701cdd207f40bb2b8a53a6be6580d7c              604 main/binary-amd64/Packages
+ f2b6f46276b290508f20048d68a729cf              443 main/binary-amd64/Packages.gz
+SHA1:
+ 63bb4c8afe058f37c49b4687fabb604dee7ad22c              178 Release
+ fa7a60dbe90b12b9b33e694d155667424cd9483d              604 main/binary-amd64/Packages
+ c1057393dc9322818d89effd7583542263e3a042              443 main/binary-amd64/Packages.gz
+SHA256:
+ b30b1af42b657db23d99c59a1ad831f7d2a215e1e2c25c95309da0808908fa36              178 Release
+ cd282e9dbefc362087e4fb216a81d19af5e2a411be11b2e015a3f4c5626b8ed6              604 main/binary-amd64/Packages
+ ad2288e82c9784661c50a42cf15b01d63f2e0725ff845ff15e611a217412da63              443 main/binary-amd64/Packages.gz
+SHA512:
+ 9c436c2dc4c29626dba6e82941f9d275b4af6404183ff1ec236e432f07e3403b2af58d02046ed0c8e365e46ffdf2ea57c945197a3db805d934451f42843bcdd2              178 Release
+ 554c3c8e585b9b704ea56d8785e02c547fc55f2d22afa3ee2522edbc3e71c028ecb98dedafa277663eec98f9334a0e21afeba79c9414cda78ca9d31c4ec8a7b8              604 main/binary-amd64/Packages
+ de7937ee4fc4b46ef0554f914e74ee2bdd5cd7398e7ec96b58ce40cee8281c16801002ab87a54177da2271fc1e613f1ab892f3b42f784dc78ad6771108a1499e              443 main/binary-amd64/Packages.gz

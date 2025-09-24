@@ -1,0 +1,18 @@
+Package: myapp
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Dein Name <email@example.com>
+Installed-Size: 16
+Filename: pool/main/m/myapp/myapp_1.0-1_amd64.deb
+Size: 2300
+MD5sum: fa8fc171de8ed362d9c1af6a4957405a
+SHA1: 19f2e78e1d65eaa6f6504aa05ded570de7967a08
+SHA256: 158db0da6ab5861de6586c2785d657794a6acdaf659f40bd3abbfdf539f7f2be
+Section: utils
+Priority: optional
+Homepage: https://github.com/deinuser/myapp
+Description: Mein erstes Beispiel-Debian-Paket
+ MyApp ist ein kleines Beispielprogramm.
+ Es zeigt, wie man ein Debian-Paket mit Binary, Konfigurationsdatei
+ und Manpage erstellt und verteilt.
+
